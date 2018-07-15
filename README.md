@@ -1,0 +1,2 @@
+# seopractica
+Practica Keepcoding - SEO
